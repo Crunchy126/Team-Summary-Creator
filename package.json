@@ -1,0 +1,27 @@
+{
+  "name": "team-generator-creator",
+  "version": "1.0.0",
+  "description": "testing for team generator",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CraazyCraaz/Team-Generator-Creator.git"
+  },
+  "author": "Jenny Thurnau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CraazyCraaz/Team-Generator-Creator/issues"
+  },
+  "homepage": "https://github.com/CraazyCraaz/Team-Generator-Creator#readme",
+  "dependencies": {
+    "inquirer": "^7.0.3",
+    "jest": "^24.9.0"
+  }
+}
